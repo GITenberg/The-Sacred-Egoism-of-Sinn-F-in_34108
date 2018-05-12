@@ -1,0 +1,28 @@
+_repo: The-Sacred-Egoism-of-Sinn-F-in_34108
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boyd, Ernest Augustus
+    alias: Iarraidh, Gnathai Gan
+    birthdate: 1887
+    deathdate: 1946
+    gutenberg_agent_id: '36778'
+    url: http://www.gutenberg.org/2009/agents/36778
+description: ''
+gutenberg_issued: '2010-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1910-1921'
+- !lcc 'DA'
+- !lcsh 'Sinn Fein'
+title: The Sacred Egoism of Sinn Féin
+url: http://www.gutenberg.org/ebooks/34108
